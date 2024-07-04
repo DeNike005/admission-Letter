@@ -13,7 +13,6 @@ $(document).ready(function () {
         $("input").val("");
 
 
-
         $(".firstName").text(firstName);
         $(".secondName").text(secondName);
         $(".institutionName").text(institutionName);
@@ -22,7 +21,6 @@ $(document).ready(function () {
         $(".startDate").text(startDate);
         $(".gender").text(gender);
         $(".country").text(country);
-
         $("#container2").show();
     })
     $(".btn-success").click(function(){

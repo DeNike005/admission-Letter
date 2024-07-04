@@ -1,12 +1,30 @@
+*{
+    font-family: "PT Serif", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
 .form-control{
     width: 50%;
+}
+.form-control:hover{
+    background-color: blanchedalmond;
 }
 .selectClass{
     width: 40%;
     height: 38px;
 }
+.container1{
+    background-color: lightblue;
+}
 #container2{
     display: none;
+}
+h1{
+    text-align: center;
+}
+#formOne{
+    padding-left: 200px;
 }
 #Letter{
     width: 9.8in;
@@ -38,9 +56,18 @@ h2{
     text-decoration: underline;
     text-align: center;
 }
+.firstName{
+    text-transform: uppercase;
+}
+.secondName{
+    text-transform: uppercase;
+}
 .institutionName{
     text-transform: uppercase;
 }
-/* .btn-success{
-    display: none;
-} */
+.degree{
+    text-transform: uppercase;
+}
+.programName{
+    text-transform: uppercase;
+}
