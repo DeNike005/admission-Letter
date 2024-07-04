@@ -1,0 +1,46 @@
+.form-control{
+    width: 50%;
+}
+.selectClass{
+    width: 40%;
+    height: 38px;
+}
+#container2{
+    display: none;
+}
+#Letter{
+    width: 9.8in;
+    height: 11in;
+    padding: 0.5in;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px auto;
+    align-items: center;
+}
+#jamb{
+    font-size: 35px;
+}
+#address{
+    font-size: 16px;
+    text-align: center;
+}
+#office{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+img{
+    margin-left: 300px;
+
+}
+h2{
+    font-size: 28px;
+    text-decoration: underline;
+    text-align: center;
+}
+.institutionName{
+    text-transform: uppercase;
+}
+/* .btn-success{
+    display: none;
+} */
